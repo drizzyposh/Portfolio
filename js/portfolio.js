@@ -20,7 +20,7 @@ const nav_Menu = document.getElementById('sidebar'),
 
 // Typing Animation
 let typed = new Typed('.typing', {
-    strings: ['Web designer','Web developer', 'Graphics designer' ],
+    strings: ['Frontend Engineer','Web designer', 'Graphics designer' ],
     typeSpeed:100,
     Backspeed:60,
     loop:true
