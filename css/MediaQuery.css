@@ -237,10 +237,11 @@
    }
 
    .home-socials {
-        left:initial;
+/*         left:initial;
         right:-4rem;
         flex-direction:column;
-        row-gap:4rem;
+        row-gap:4rem; */
+        display: none;
    }
 
    .home-follow {
